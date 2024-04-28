@@ -5,7 +5,7 @@
 L'objectif principal de ce projet  est de développer un modèle de prédiction capable de détecter efficacement les cas positifs de COVID-19 en se basant sur des données cliniques.
 
 ## Dataset COVID-19
-Ce datase contient des données cliniques sur des patients atteints de la COVID-19. ((https://www.kaggle.com/datasets/einsteindata4u/covid19) )
+Ce datase contient des données cliniques sur des patients atteints de la COVID-19. (https://www.kaggle.com/datasets/einsteindata4u/covid19)
 
 
 ### Métriques
